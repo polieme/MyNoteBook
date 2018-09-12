@@ -5,7 +5,7 @@ java -version
 rpm -qa | grep java或者rpm -qa | grep jdk
 ```
 
-![img](E:/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/Youdao/polieme@126.com/e180a24abc514df993c7a811972ee2bc/clipboard.png)
+![img](https://github.com/polieme/MyNoteBook/blob/master/%E5%9B%BE%E7%89%87/%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9B%B8%E5%85%B3/2018-9-12-004.png?raw=true)
 
 2. 执行卸载命令
 
@@ -27,7 +27,7 @@ rpm -e --nodeps 红色框中的内容
 tar -zxvf 下载下来的tar.gz 的安装包
 ```
 
-![img](E:/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/Youdao/polieme@126.com/b5c37c9fc6c44cf3bea3131ba4ebebfd/clipboard.png)
+![img](https://github.com/polieme/MyNoteBook/blob/master/%E5%9B%BE%E7%89%87/%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9B%B8%E5%85%B3/2018-9-12-005.png?raw=true)
 
 移动到对应的目录下面，习惯将软件安装在/usr/local下面，因此执行命令
 
@@ -45,7 +45,7 @@ export PATH=$JAVA_HOME/bin:$PATH
 export CLASSPATH=$CLASSPATH:.:$JAVA_HOME/lib:$JRE_HOME/lib
 ```
 
-![img](E:/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/Youdao/polieme@126.com/f2d1864f140141a396f2b4f1ab2cbd88/clipboard.png)
+![img](https://github.com/polieme/MyNoteBook/blob/master/%E5%9B%BE%E7%89%87/%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9B%B8%E5%85%B3/2018-9-12-006.png?raw=true)
 
 6. 执行编译，使配置文件立即生效
 
