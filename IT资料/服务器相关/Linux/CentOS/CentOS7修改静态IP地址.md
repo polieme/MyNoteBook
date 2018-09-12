@@ -24,7 +24,7 @@ DNS1=192.168.7.1 #DNS 配置
 
 4.修改后的效果
 
-![img](E:/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/Youdao/polieme@126.com/de93d089ba06436aa7ff439d096677b5/clipboard.png)
+![](https://github.com/polieme/MyNoteBook/blob/master/%E5%9B%BE%E7%89%87/%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9B%B8%E5%85%B3/2018-9-12-001.png?raw=true)
 
 5.重启网络服务
 
