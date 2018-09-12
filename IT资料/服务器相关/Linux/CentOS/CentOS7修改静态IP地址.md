@@ -2,7 +2,7 @@
 
 [daniel@localhost ~]$ ifconfig 
 
-![img](E:/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/Youdao/polieme@126.com/861135c4e6604e5092940547d5dbc5e4/clipboard.png)
+![](https://github.com/polieme/MyNoteBook/blob/master/%E5%9B%BE%E7%89%87/%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9B%B8%E5%85%B3/clipboard.png?raw=true)
 
 2.找到对应的网络配置文件
 
