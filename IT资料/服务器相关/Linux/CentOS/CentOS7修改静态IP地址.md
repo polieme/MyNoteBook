@@ -2,7 +2,9 @@
 
 [daniel@localhost ~]$ ifconfig 
 
-![](https://github.com/polieme/MyNoteBook/blob/master/%E5%9B%BE%E7%89%87/%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9B%B8%E5%85%B3/clipboard.png?raw=true)
+![2018-9-12-003.png](https://github.com/polieme/MyNoteBook/blob/master/%E5%9B%BE%E7%89%87/%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9B%B8%E5%85%B3/2018-9-12-003.png?raw=true)
+
+
 
 2.找到对应的网络配置文件
 
