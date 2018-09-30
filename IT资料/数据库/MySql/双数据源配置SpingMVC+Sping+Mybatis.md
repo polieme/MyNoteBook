@@ -10,7 +10,9 @@
 
 > 3. 再就是DAO层面的修改了，只需要修改两个地方，一个地方是“sqlSessionTemplate2”对应到上面Sprig配置文件中的“sqlSessionTemplate2”，在一个就是DaoSupport的声明了吧
 
-
+![](https://github.com/polieme/MyNoteBook/blob/master/%E5%9B%BE%E7%89%87/%E6%95%B0%E6%8D%AE%E5%BA%93/clipboard4.png?raw=true)
 
 > 4. 下面就可以直接使用了
+
+![](https://github.com/polieme/MyNoteBook/blob/master/%E5%9B%BE%E7%89%87/%E6%95%B0%E6%8D%AE%E5%BA%93/clipboard5.png?raw=true)
 
